@@ -1,5 +1,19 @@
 # open-orgs
 
+-- where to find open projects
+GSOC
+Outreachy
+linux foundation
+Alibaba summer of code
+X.org
+Hyperledger foundation
+Summer of haskell
+24 pull requests
+Code Heat
+CROSS
+Season of KDE
+
+
 -- open source orgs -- having lots of projects
 Apache Foundation
 Cloud Native Computing Foundation
@@ -42,4 +56,5 @@ OPENWARE
 SHOTCUT
 THUNDERBIRD
 VLC MEDIA PLAYER 
+CAL.COM
 
